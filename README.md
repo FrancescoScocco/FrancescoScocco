@@ -1,6 +1,6 @@
 😎 Ehi! È un piacere vederti.
 
-Benvenuto sulla mia pagina! Sono Francesco, sviluppatore full-stack dall'Italia, attualmente vivo in Ancon, Italia.
+Benvenuto sulla mia pagina! Sono Francesco, sviluppatore full-stack dall'Italia, attualmente vivo in Ancona, Italia.
 
 Linguaggi:
 
