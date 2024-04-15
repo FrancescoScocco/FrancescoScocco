@@ -14,8 +14,8 @@ Linguaggi:
 
 - 💞️ Sto cercando di collaborare a progetti innovativi che ridefiniscano il panorama digitale, dove l'innovazione non conosce limiti.
 
-- 📫 Come raggiungermi? Scrivete a francesco.scocco2000@gmail.com e progettiamo insieme il futuro!
-
+- 📫 Come raggiungermi? Scrivimi al mio profilo Linkedin https://www.linkedin.com/in/francescoscocco/ o alla mia mail francesco.scocco2000@gmail.com
+ e progettiamo insieme il futuro! 
 - 😄 Pronomi: Web Wizard, Tech Maestro, Digital Dynamo.
 
 - ⚡ Curiosità: una volta ho eseguito il debug di un intero sito web mentre facevo paracadutismo: si tratta di risolvere i bug al volo! 🪂✨
