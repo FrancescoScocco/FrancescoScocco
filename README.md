@@ -13,7 +13,7 @@ Language:
 
 - 💞️ I'm looking to collaborate on innovative projects that redefine the digital landscape, where innovation knows no bounds.
 
-- 📫 How to reach me? Contact me on my LinkedIn profile https://www.linkedin.com/in/francescoscocco/ or email me at francesco.scocco2000@gmail.com
+- 📫 How to reach me? Contact me on my LinkedIn profile https://www.linkedin.com/in/francescoscocco/ or email me at francesco.scocco.dev@gmail.com
 and let's design the future together!
 - 😄 Pronouns: Web Wizard, Tech Maestro, Digital Dynamo.
 
